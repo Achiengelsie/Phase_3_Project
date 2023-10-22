@@ -52,8 +52,7 @@ The metrics used to evaluate the performance of the models are Accuracy, Precisi
   
 - **F1-Score:** The F1-Score for class 0 is 85%, indicating a good balance between precision and recall. However, for class 1, it is lower at 50%, suggesting a weaker balance between precision and recall for this class.
 
-![image]([plots/ROC%CurveforLogisticRegression.jpg](https://github.com/Achiengelsie/Phase_3_Project/blob/main/plots/ROC%20Curve%20for%20Logistic%20Regression.jpg))
-
+![image](plots/ROC%CurveforLogisticRegression.jpg)
 
 ### Decision Tree
 
