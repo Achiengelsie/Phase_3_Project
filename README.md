@@ -17,7 +17,7 @@ SyriaTel Telecom Company, a mobile network provider based in Syria is committed 
 
 2. Determine the best model using classification metrics and identify the key factors contributing to customer churn within the company.
 
-3 Propose cost-effective strategies that the primary stakeholder, SyriaTel, can implement to help retain its customers thereby reducing losses.
+3.  Propose cost-effective strategies that the primary stakeholder, SyriaTel, can implement to help retain its customers thereby reducing losses.
 
 ### Data Understanding
 The data is from Kaggle and can be accessed [here](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset).
