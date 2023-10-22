@@ -5,22 +5,25 @@
 ---
 
 ## Project Overview
-The primary goal of any company is to maximize profit while minimizing losses, and a key factor in achieving this is ensuring customer satisfaction. Satisfied customers are more likely to remain loyal, which is crucial for business success. In the highly competitive telecom industry, maintaining customer satisfaction is paramount. This project aims to create a predictive model for customer churn, identifying behavior patterns that indicate a higher risk of customers leaving. 
+The primary objective of every company is to generate and increase profits while minimizing losses. Among the most critical factors contributng to a business's is Customer Satisfaction. When customers are delighted with the products or services they receive from a company they are more likely to remain loyal to the company. This is why companies place signiificant emphasis on customer retention and aim to minimize customer churn, as this can otherwise result in reduced revenue and profitability.The goal of this project was to develop a predictive model for customer churn which can identify patterns in customer behavior that indicate an elevated risk of churn. This model will enable us to develop and execute effective strategies for curbing churn.
 
 ---
 
 ## Business Understanding
-SyriaTel, a mobile network provider based in Syria is keen to reduce losses that result from customers who don't stick around very long. The increase in customer churn is threatening the company's growth and profitability hence the need to assess customer behavior patterns and identify whatever factors may be contributing to the increase in customer churn. This will enable the company to create effective retention strategies that will not only increase customer satisfaction but also attract new customers to the company.
+SyriaTel Telecom Company, a mobile network provider based in Syria is committed to minimizing financial losses stemming from short-lived customer relationships. The increase in customer churn is jeopardizing the company's growth and profitability necessitating an assessment of customer behavior patterns and the identification of contributing factors. This will enable the company to create effective retention strategies that will not only increase customer satisfaction but also attract new customers to the company.
 
 ### Objectives
-1 Create several machine learning models to predict customer churn by analyzing the key features within the data provided.
+1. Develop multiple machine learning models to for predicting customer churn by analyzing the key features within the data provided.
 
-2 Identify the best pattern using classification metrics and identifyting what the key features contributing to customer churn in the company are.
+2. Determine the best model using classification metrics and identify the key factors contributing to customer churn within the company.
 
-3 Recommend cost-effective strategies that Syriatel can implement to help retain its customers thus reducing loss The primary stakeholder is Syriatel.
+3 Propose cost-effective strategies that the primary stakeholder, SyriaTel, can implement to help retain its customers thereby reducing losses.
 
 ### Data Understanding
-The data used in this project was sourced from Kaggle.
+The data is from Kaggle and can be accessed [here](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset).
+It contains information information related to the company's customers, including their account details, call usage, plan subscriptions, and customer service interactions, with a focus on whether customers have terminated their contracts or not.
+
+It consists of 3333 rows and 21 columns.
 
 ### Methodology
 The following steps were taken to complete the project:
