@@ -81,7 +81,7 @@ The metrics used to evaluate the performance of the models are Accuracy, Precisi
 The Random Forest performed better than the other models. It has the highest accuracy scores as well as the highest precicion, recall and f1 scores as well as the highest accuracy scores which means that it performs well in terms of overall correctness in classifying data points. Its high test set accuracy indicates that a significant portion of the test data points is correctly classified, making it a reliable choice for predicting outcomes.
 
 ### Feature Importance
-![image](plots/ROC%20Curve%20for%20Random%20Forest%20Model.jpg)
+![image](plots/Feature%20Importance.jpg)
 
 Form the barchart we see that the top three features for predicting customer churn are:
 
